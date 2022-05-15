@@ -1,7 +1,7 @@
 <h1 align="center">TimeRegistration</h1>
 <p align="center">
   Time Registration Management App made with Delphi and &hearts; by Geras1mleo
-</p>
+</p><br/>
 
 #### Made on behalf of <a href="https://itreflex.be/">ITReflex<a/>
 
